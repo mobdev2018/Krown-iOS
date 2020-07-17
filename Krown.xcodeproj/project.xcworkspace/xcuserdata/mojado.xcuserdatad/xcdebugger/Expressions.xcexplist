@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HomeViewController view:wasChosenWithDirection:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myProfileMatches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__50-[HomeViewController view:wasChosenWithDirection:]_block_invoke:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myProfileMatches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TinderAppDelegate showToastMessage:]:TinderAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.window.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MBProgressHUD layoutSubviews]:MBProgressHUD.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.text">
+            </PersistentString>
+            <PersistentString
+               value = "detailsLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController fetchMatchesData:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myProfileMatches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController likeDislikeAction:profile:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.decision.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController homeScreenRefresh]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[User currentUser].profile_pic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController view:wasChosenWithDirection:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.backCardView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FriendsListCell setData:dictForChat:]:FriendsListCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "xmppFriend.lastMessage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController setupMatchesView]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myProfileMatches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController btnSettingTapped:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastIndexOfPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController sendInviteAction:]:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController popPersonViewWithFrame:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myProfileMatches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController scrollViewDidScroll:]:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollVwContainer.contentOffset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

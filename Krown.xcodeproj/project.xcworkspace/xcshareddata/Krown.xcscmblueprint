@@ -1,0 +1,119 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9120F9C519551ED3CFCF7ED7B288236D29E27D05+++1EE006B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "587610f2-90e7-486b-87af-a1a47e48993b++2679+++BD4C152" : {
+
+    },
+    "587610f2-90e7-486b-87af-a1a47e48993b++2679+++802AB1F" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++ADE639B" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++C2F22BC" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4640+++F5530F7" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++A3D77F4" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++50611DE" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4658+++F521933" : {
+
+    },
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++6B4D146" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "587610f2-90e7-486b-87af-a1a47e48993b++2679+++BD4C152" : 0,
+    "587610f2-90e7-486b-87af-a1a47e48993b++2679+++802AB1F" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++ADE639B" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++C2F22BC" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4640+++F5530F7" : 0,
+    "9120F9C519551ED3CFCF7ED7B288236D29E27D05+++1EE006B" : 0,
+    "D551F7ECD5F73BCCA717D3661F2776C9D080DFA7+++4685CD5" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++A3D77F4" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++50611DE" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4658+++F521933" : 0,
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++6B4D146" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "70E5C345-7787-4E37-A281-8D6E38CC8D4A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "587610f2-90e7-486b-87af-a1a47e48993b++2679+++BD4C152" : "Team%20Work\/Classes\/ExternalAPIs\/EGO_Class\/AsyncImageView\/",
+    "587610f2-90e7-486b-87af-a1a47e48993b++2679+++802AB1F" : "krown-ios\/Classes\/ExternalAPIs\/EGO_Class\/AsyncImageView\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++ADE639B" : "Team%20Work\/Classes\/ExternalAPIs\/EGO_Class\/EGOImageView\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++C2F22BC" : "Team%20Work\/Classes\/ExternalAPIs\/EGO_Class\/EGOImageView\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4640+++F5530F7" : "Krown-iOS\/Classes\/ExternalAPIs\/EGO_Class\/EGOImageView\/",
+    "9120F9C519551ED3CFCF7ED7B288236D29E27D05+++1EE006B" : "Team%20Work\/",
+    "D551F7ECD5F73BCCA717D3661F2776C9D080DFA7+++4685CD5" : "krown-ios\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++A3D77F4" : "krown-ios\/Classes\/ExternalAPIs\/EGO_Class\/EGOImageLoader\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++50611DE" : "krown-ios\/Classes\/ExternalAPIs\/EGO_Class\/EGOImageButton\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++4658+++F521933" : "krown-ios\/Classes\/ExternalAPIs\/EGO_Class\/EGOCache\/",
+    "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++6B4D146" : "Team%20Work\/Classes\/ExternalAPIs\/EGO_Class\/EGOCache\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Krown",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Krown.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/FareApps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "587610f2-90e7-486b-87af-a1a47e48993b++2679+++802AB1F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/FareApps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "587610f2-90e7-486b-87af-a1a47e48993b++2679+++BD4C152"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/teglgaard\/krown-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9120F9C519551ED3CFCF7ED7B288236D29E27D05+++1EE006B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/teglgaard\/krown-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D551F7ECD5F73BCCA717D3661F2776C9D080DFA7+++4685CD5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++50611DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++3987+++6B4D146"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++4640+++F5530F7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++4658+++F521933"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++A3D77F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++ADE639B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/Shop4Me_new",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a4077213-5879-4635-b1f8-3d8b18facfb7++4958+++C2F22BC"
+    }
+  ]
+}
